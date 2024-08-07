@@ -24,15 +24,6 @@ This project demonstrates a fire detection and alert system using a Raspberry Pi
 - Thonny IDE
 - Pushbullet account and API key
 
-## Project Structure
-```
-/
-├── main.py
-├── library_file1.py
-├── library_file2.py
-└── README.md
-```
-
 ## Setup Instructions
 1. Connect the hardware components (refer to video demo for setup)
 2. Install Thonny IDE on your computer
