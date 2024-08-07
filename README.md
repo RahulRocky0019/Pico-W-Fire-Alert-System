@@ -22,7 +22,7 @@ This project demonstrates a fire detection and alert system using a Raspberry Pi
 - Pushbullet account and API key
 
 ## Setup Instructions
-1. Connect the hardware components (refer to video demo for setup)
+1. Connect the hardware components (refer to video demo)
 2. Install Thonny IDE on your computer
 3. Open the project files in Thonny
 4. Ensure MicroPython is installed on your Raspberry Pi Pico W
@@ -32,10 +32,10 @@ This project demonstrates a fire detection and alert system using a Raspberry Pi
 Once set up, the system will continuously monitor for fire. The LCD will display the current status, and you'll receive a Pushbullet notification if a fire is detected.
 
 ## Video Demonstrations
-(Add links or descriptions of your video demos here)
+https://github.com/user-attachments/assets/03ca1b72-f251-44c2-8d7c-ecea0f49d81d
 
 ## Notes
-- This project is a demonstration and may require modifications for production use
+- This project is a demonstration and may require modifications
 - Ensure to keep your Pushbullet API key confidential
 
 ## License
