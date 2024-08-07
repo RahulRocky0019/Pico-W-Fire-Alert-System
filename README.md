@@ -1,9 +1,6 @@
 # Pico W Fire Alert System
 
 ## Overview
-This project implements a fire detection and alert system using a Raspberry Pi Pico W. It detects nearby fires, displays the status on a 16x2 LCD screen, and sends mobile notifications using the Pushbullet API.
-
-## Overview
 This project demonstrates a fire detection and alert system using a Raspberry Pi Pico W. It detects nearby fires, displays the status on a 16x2 LCD screen, and sends mobile notifications using the Pushbullet API. The entire system is implemented in MicroPython and developed using the Thonny IDE.
 
 ## Features
